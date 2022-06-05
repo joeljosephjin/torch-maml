@@ -1,0 +1,5 @@
+
+data/Omniglot
+wandb
+__pycache__
+*.npy
